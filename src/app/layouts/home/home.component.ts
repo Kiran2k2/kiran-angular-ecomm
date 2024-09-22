@@ -12,16 +12,20 @@ import { Component } from '@angular/core';
 export class HomeComponent {
 
   bannerImgs=[
-{
-  id:1,
-  img:"https://pngtree.com/freebackground/ecommerce-banner-planning-segmentation-selection_1859485.html"
-},
-
-{
-  id:2,
-
-
-}
+    {
+      id:1,
+      img:"../../../assets/slide-02.jpg"
+    },
+    {
+      id:2,
+      img:"../../../assets/slide-03.jpg"
+    },{
+      id:3,
+      img:"../../../assets/1.jpg"
+    },{
+      id:4,
+      img:"../../../assets/2.jpg",
+    }
   ]
 
 }

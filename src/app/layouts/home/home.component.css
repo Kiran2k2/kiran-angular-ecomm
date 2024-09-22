@@ -19,8 +19,9 @@
     border: 2px solid rgb(54, 16, 244);
 }
 .carousel-item  img{
- height: 200px;
+ height: 500px;
  width: 70%;
+ background-position: 0;
   }
 
 .categorisContent h4 {
